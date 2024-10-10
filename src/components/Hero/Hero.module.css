@@ -32,9 +32,9 @@
   -webkit-background-clip: text;
 }
 
-.decription {
+.description {
   font-size: 30px;
-  font-family: var(--font-roboto);
+  font-family: var(--font-robot);
   margin-bottom: 52px;
 }
 

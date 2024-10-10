@@ -18,7 +18,7 @@ export const About = () => {
               src={getImageUrl("about/cursorIcon.png")}
               alt="Cursor icon" 
             />
-            <div className={styles.aboutImageText}>
+            <div className={styles.aboutItemText}>
               <h3>Desarrollador Frontend</h3>
               <p>Desarrollador frontend versátil con dominio de HTML, CSS, JavaScript, React y WordPress. Creativo y apasionado por la tecnología.</p>
             </div>
@@ -28,7 +28,7 @@ export const About = () => {
               src={getImageUrl("about/serverIcon.png")}
               alt="Server icon" 
             />
-            <div className={styles.aboutImageText}>
+            <div className={styles.aboutItemText}>
               <h3>Desarrollador Backend</h3>
               <p>Experiencia en desarrollo backend con Python y PHP. Proyectos personales con gestión de APIs.</p>
             </div>
@@ -38,7 +38,7 @@ export const About = () => {
               src={getImageUrl("about/UI.png")}
               alt="UI icon" 
             />
-            <div className={styles.aboutImageText}>
+            <div className={styles.aboutItemText}>
               <h3>Diseño de Interfaz de Usuario</h3>
               <p>Diseñador UI con pasión por crear experiencias digitales memorables. Sólida experiencia.</p>
             </div>
