@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Desarrollador Frontend",
+    "organisation": "WiseWorries, Unipessoal, Lda",
+    "startDate": "Mayo, 2024",
+    "endDate": "Agosto, 2024",
+    "experience": ["Traducción de páginas", "Modificaciones de diseño"],
+    "imageSrc": "history/wiseworries.png"
+  },
+  {
+    "role": "Desarrollador Frontend",
+    "organisation": "Basicamente Digital",
+    "startDate": "Mayo, 2021",
+    "endDate": "Agosto, 2021",
+    "experience": ["Diseño página web", "Modificaciones de diseño"],
+    "imageSrc": "history/basicamente.png"
+  }
+]
