@@ -30,9 +30,6 @@ export const Navbar = () => {
             <a href="#experience">Experiencia</a>
           </li>
           <li>
-            <a href="#projects">Proyectos</a>
-          </li>
-          <li>
             <a href="#contact">Contacto</a>
           </li>
         </ul>
